@@ -57,4 +57,12 @@
 
 ## Kubernetes cluster at (ReloadApp)
 
-[reloadapp.cr](http://146.190.12.141/client/)
+Please add the following to your hosts app
+
+```bash
+146.190.12.141 reloadapp.cr
+```
+
+And after that click on the following to access the app:
+
+[reloadapp.cr](http://reloadapp.cr/client/)
